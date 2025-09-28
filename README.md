@@ -1,3 +1,0 @@
-# afrikode
-sample
-Testing
